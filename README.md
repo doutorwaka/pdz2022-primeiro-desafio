@@ -24,4 +24,6 @@ O programa em C/C++ irá ler um vetor de inteiros do arquivo de entrada. Em segu
 
 ### Desafio 2
 
-Neste desafio, 
+Neste desafio, você precisará criar um **programa gerenciador de alunos**. Basicamente, o programa deve ser capaz de **cadastrar e remover alunos**. Um aluno possuirá número de matrícula, nome, e-mail e nota. Além disso, o programa também deve possuir um **serviço de cálculo de aprovação**. Nessa opção, **o usuário informará a nota mínima** de aprovação. Dado a nota mínima, **o programa exibe todos os alunos com *“aprovado”* ou *“reprovado”*** na frente.
+
+Além disso, ao encerrar o programa, ele deve ser capaz de **salvar todos os dados** em um arquivo na **memória secundária**. Ao iniciar o programa novamente, ele deve ser capaz de trazer de volta todos os dados desse arquivo. A linguagem do desafio será **JAVA**.
