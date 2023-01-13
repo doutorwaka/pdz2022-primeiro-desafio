@@ -1,5 +1,14 @@
-# Curso Programado do Zero 2022
+# Programado do Zero 2022
 ## Primeiro Desafio
+
+Este é o primeiro desafio do curso **Programando do Zero 2022** e se você chegou até aqui, parabéns!
+
+Existem mais detalhes e informações sobre o desafio no arquivo ***primeiro-desafio.pdf***. Você precisará dar uma olhada nele para por exemplo ter informações de como entregar o seu desafio.
+
+O desafio foi dividido em duas partes onde no primeiro desafio, você precisará além de resolver um problema também pensar sobre a complexidade do algoritmo que está desenvolvendo.
+
+O segundo desafio se trata de desenvolver um programa mais convencional, de gerenciamento de alunos.
+
 ### Desafio 1
 
 Neste desafio, você precisa implementar um programa em C ou C++ cujo qual em sua chamada de execução, o programa receberá o nome de dois arquivos de textos por parâmetro. A chamada ficará como segue:
